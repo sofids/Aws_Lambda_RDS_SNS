@@ -28,4 +28,7 @@ Proyecto de Aws de envío de notificaciones SNS a clientes sobre una película r
     Dicha película se usará para armar el correo a ser enviado por SNS a los suscriptores.
 7. Generar reportes en Quicksight leyendo la base de datos RDS MySql
 
+### Resultado Final
+https://www.youtube.com/watch?v=9ZqhWUCui-o
+
   
